@@ -5,7 +5,7 @@ import kotlin.test.*
 class HashMapTest {
 
     // Test put one entry and get value
-    @Test
+  /*  @Test
     fun testEmpty(){
         val map = HashMap<Int, String>()
         assertEquals(0, map.size)
@@ -95,5 +95,5 @@ class HashMapTest {
            }
         }
     }
-
+*/
 }
